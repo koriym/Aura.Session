@@ -8,8 +8,6 @@
  */
 namespace Aura\Session;
 
-use Aura\Session\Exception;
-
 /**
  *
  * Generates cryptographically-secure random values.
